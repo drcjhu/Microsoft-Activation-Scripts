@@ -11,7 +11,7 @@
 </p>
 
 <hr>
-  
+
 ## Download / How to use it?
 
 ### Method 1 - PowerShell (Recommended)
@@ -45,6 +45,19 @@ irm https://massgrave.dev/get | iex
 -   That's all.
 
 To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches)
+
+---
+
+To change your Windows edition:
+Open up PowerShell
+Copy and paste this code irm https://get.activated.win | iex and hit enter
+Go to the extras menu
+Go to change windows edition menu
+Choose professional or whichever you want and choose the first method
+After your system reboots, go through step 1-2 again
+Choose "HWID" activation method and go through the process to activate it!
+To only activate your Windows edition just skip step 3-6
+---
 
 </br>
 
